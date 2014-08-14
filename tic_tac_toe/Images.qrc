@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>false.png</file>
+        <file>false1.png</file>
+        <file>true.png</file>
+        <file>true1.png</file>
+        <file>fal.png</file>
+        <file>tru.png</file>
+    </qresource>
+</RCC>
